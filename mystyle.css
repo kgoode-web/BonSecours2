@@ -1,0 +1,308 @@
+faq {
+background-color: white;
+}
+
+header {
+text-align: center;
+font-family: Times New Roman;
+color: black;
+font-size: 20pt;
+font-weight: bold;
+background-color: white;
+padding: 15px;
+display: block;
+}
+
+term {
+text-align: center;
+font-size: 18pt;
+font-weight: bold;
+background-color: white;
+}
+
+summary {
+text-align: center;
+font-family: Times New Roman;
+color: black;
+font-size: 18pt;
+font-weight: bold;
+background-color: white;
+}
+
+body {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt
+background-color: white;
+}
+
+finance {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 15pt;
+font-weight: bold;
+background-color: white;
+}
+
+faq_one {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt;
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_one {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt;
+background-color: white;
+}
+
+faq_two {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt;
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_two {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt
+background-color: white;
+}
+
+program {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 15pt;
+font-weight: bold;
+background-color: white;
+}
+
+faq_three {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt;
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_three {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt;
+background-color: white;
+}
+
+faq_four {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_four {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt;
+background-color: white;
+}
+
+therapy {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 15pt;
+font-weight: bold;
+background-color: white;
+}
+
+faq_five {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_five {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt
+background-color: white;
+}
+
+faq_six {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt;
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_six {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt;
+background-color: white;
+}
+
+faq_seven {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt;
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_seven {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt;
+background-color: white;
+}
+
+cancellations {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 15pt;
+font-weight: bold;
+background-color: white;
+}
+
+faq_eight {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt;
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_eight {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt;
+background-color: white;
+}
+
+faq_nine {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt;
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_nine {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt;
+background-color: white;
+}
+
+medical {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 15pt;
+font-weight: bold;
+background-color: white;
+}
+
+faq_ten {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt;
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_ten {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt;
+background-color: white;
+}
+
+faq_eleven {
+text-align: left;
+font-family: Times New Roman;
+color: blue;
+font-size: 12pt;
+font-weight: bold;
+background-color: white;
+list-style-type: square;
+}
+
+answer_eleven {
+text-align: left;
+font-family: Times New Roman;
+color: black;
+font-size: 12pt;
+background-color: white;
+}
+
+contact {
+text-align: center
+font-family: Times New Roman;
+color: black;
+font-size: 11pt;
+font-weight: bold;
+background-color: white;
+}
+
+address {
+text-align: center
+font-family: Times New Roman;
+color: black;
+font-size: 11pt;
+font-weight: bold;
+background-color: white;
+}
+
+phone {
+text-align: center
+font-family: Times New Roman;
+color: black;
+font-size: 11pt
+font-weight: bold;
+background-color: white;
+}
